@@ -1,0 +1,16 @@
+{
+  "name": "nodejscleanup",
+  "version": "1.0.0",
+  "description": "first node module package",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js",
+    "start-server" : "nodemon app.js"
+  },
+  "author": "Vini",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.4"
+  }
+}
