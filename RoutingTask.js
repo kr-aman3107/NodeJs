@@ -12,4 +12,4 @@ const server = http.createServer((req,res) =>{
         res.write('<body><h1>Welcome to my Node Project</h1></body>');
     }
 });
-server.listen(4000);
+server.listen(4000)
